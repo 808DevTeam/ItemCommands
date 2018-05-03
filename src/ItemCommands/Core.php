@@ -18,7 +18,7 @@ class Core extends PluginBase implements Listener{
 	
 	public function onLoad(){
 		$this->saveDefaultConfig();
-		$this->getLogger()->info(TF::GRAY."Loading items...");
+		$this->getLogger()->info(TF::GRAY."Loading Items...");
 		foreach($this->getConfig()->getAll() as $stringKey => $data){
 			if($stringKey === "settings"){
 				continue;
