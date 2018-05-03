@@ -72,7 +72,7 @@ class Item{
 	public function getLore(): array{
 		$lore = [];
 		foreach($this->lore as $lor){
-			$lore[] = "§7".$lor."§r";
+			$lore[] = "§b".$lor."§b";
 		}
 		return $lore;
 	}
