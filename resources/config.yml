@@ -22,15 +22,113 @@ settings:
 # {x} - Player x
 # {y} - Player y
 # {z} - Player z
+# we perfer using 2 as console
 # RUN_AS:
 #    0 - player
 #    1 - op
 #    2 - console
-"339:100":
-  name: "§aVoucher"
+"0:0":
+  name: ""
   lore:
-    - "Grants 100$"
+    - ""
   runAs: 2
   commands:
-    - "givemoney {name} 100"
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - """0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+    "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""
+  "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""  
+  "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""  
+ "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - ""   
+   "0:0":
+  name: ""
+  lore:
+    - ""
+  runAs: 2
+  commands:
+    - "" 
 ...
